@@ -4,18 +4,18 @@
 </div>
 
 # MacChanger
-This program changes the MAC address of Linux systems.
-You can now change the MAC address of your system to any other fictitious address, you do not need to use any additional programs.
-Just download the program, run it, and follow the instructions
+This program changes the MAC address of Linux systems. <br>
+You can now change the MAC address of your system to any other fictitious address, you do not need to use any additional programs. <br>
+Just download the program, run it, and follow the instructions 
 <br>
 # Why need it?
-If you plan to access the dark web, you must change your MAC address to maintain your privacy.
-Or if you want to do anything and want to protect your privacy, you can use this program.
+If you plan to access the dark web, you must change your MAC address to maintain your privacy. <br>
+Or if you want to do anything and want to protect your privacy, you can use this program. <br>
 <br>
 # explained
-When you run the program it will ask you to select the type [eth0 / wlan0]
-If you don't know the difference between them, don't worry I will simply explain it to you.
-[eth0] > We use this type if your computer connects to the Internet via an Ethernet cable.
+When you run the program it will ask you to select the type [eth0 / wlan0] <br>
+If you don't know the difference between them, don't worry I will simply explain it to you. <br>
+[eth0] > We use this type if your computer connects to the Internet via an Ethernet cable. <br>
 [wlan0] > We use this type if your computer connects to the Internet via Wi-Fi.
 <br>
 # How to install
